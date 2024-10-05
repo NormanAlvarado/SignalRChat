@@ -1,0 +1,32 @@
+#chatWindow {
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 400px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#messagesList {
+    list-style: none;
+    padding: 0;
+}
+
+    #messagesList li {
+        padding: 5px 0;
+    }
+#chatWindow {
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 400px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#messagesList {
+    list-style: none;
+    padding: 0;
+}
+
+    #messagesList li {
+        padding: 5px 0;
+    }
